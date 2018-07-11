@@ -28,7 +28,7 @@ end
 end
 
   # Write a loop that outputs the first two sets of steps in the Two-Step
-end
+
 
 def how_many_steps
   steps = 0 
